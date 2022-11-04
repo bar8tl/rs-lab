@@ -1,0 +1,4 @@
+<Project name="my_project">
+  <Item name="hello" source="world.rs" />
+  <Item name="testing" source="xmlreader.rs" />
+</Project>

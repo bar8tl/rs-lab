@@ -1,0 +1,2 @@
+inistruct.exe
+pause

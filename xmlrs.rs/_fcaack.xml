@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acuseRecibo>
+  <ruta remitente="0000000100" destinatario="91790C"/> 
+  <documento referenciaProveedor="0237187312" serie="J" folioFiscal="187312" UUID="3B71ED35-32D8-11ED-B187-3F9AEEA92032"/> 
+  <recepcion fechahora="2022-09-14T02:42:27" estatus="02"/>
+  <error>,The required attribute "billOfLading" is missing.</error>
+  <error>El archivo no cumple con el schema de addenda</error>
+</acuseRecibo>
